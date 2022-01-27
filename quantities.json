@@ -1,0 +1,72 @@
+[
+  {
+    "name": "number of flights",
+    "param": "num",
+    "unit": "number",
+    "decimal-places": 0,
+    "summaryType": "total"
+  },
+  {
+    "name": "% of flights on time",
+    "param": "pct-on-time",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights canceled",
+    "param": "pct-canceled",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights diverted",
+    "param": "pct-diverted",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed",
+    "param": "pct-delayed",
+    "unit": "percent",
+    "decimal-places": 0,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed due to carrier delay",
+    "param": "pct-delayed-carrier",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed due to late aircraft",
+    "param": "pct-delayed-late-aircraft",
+    "unit": "percent",
+    "decimal-places": 0,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed due to weather",
+    "param": "pct-delayed-weather",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed due to security",
+    "param": "pct-delayed-security",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  },
+  {
+    "name": "% of flights delayed due to air traffic control",
+    "param": "pct-delayed-air-control",
+    "unit": "percent",
+    "decimal-places": 1,
+    "summaryType": "mean"
+  }
+]
