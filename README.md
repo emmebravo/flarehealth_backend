@@ -12,7 +12,7 @@ To run the code:
 
 ### GET /available-airport-codes
 
-- to display Aiport Codes run the following code in the CLI
+- For airport codes, run the following code in the CLI
 
 ```
 $ curl http://localhost:5000/available-airport-codes
@@ -23,7 +23,7 @@ $ curl http://localhost:5000/available-airport-codes
 
 ### GET /available-years
 
-- to display Aiport Codes run the following code in the CLI
+- For the years of data, run the following code in the CLI
 
 ```
 $ curl http://localhost:5000/available-years
